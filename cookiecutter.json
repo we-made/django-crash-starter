@@ -1,9 +1,9 @@
 {
-  "project_name": "EveryCheese",
+  "project_name": "WeBook",
   "project_slug": "{{ cookiecutter.project_name.lower()|replace(' ', '_')|replace('-', '_')|replace('.', '_')|trim() }}",
-  "description": "The Ultimate Cheese Index!",
+  "description": "Flexible booking and event management solution.",
   "author_name": "Your name here",
-  "domain_name": "everycheese.com",
+  "domain_name": "webook.wemade.no",
   "email": "{{ cookiecutter.author_name.lower()|replace(' ', '-') }}@example.com",
   "timezone": "UTC",
   "windows": "n",
